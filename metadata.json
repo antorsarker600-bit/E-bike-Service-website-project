@@ -1,0 +1,6 @@
+{
+  "name": "VOLT//GARAGE - Precision EV Mobility Systems",
+  "description": "High-torque cybernetic tuning lab and factory-grade electric powertrain telemetry diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
